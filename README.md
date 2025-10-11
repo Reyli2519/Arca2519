@@ -1,5 +1,3 @@
-Arca2519
-
 # Información Personal
 
 - Nombre: Reyli Gonzalez
