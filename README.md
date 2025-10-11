@@ -5,4 +5,5 @@ Arca2519
 - Nombre: Reyli Gonzalez
 - Carrera: ING. Sistema
 - Cédula: 30272237
+- Sección: 2629
 - Profesor: Alonso Senteno
